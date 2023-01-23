@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="liqud" type="PLAIN_TEXT" />
+      <mapping ext="svg  " type="PLAIN_TEXT" />
       <mapping pattern="works-with-sidebar-filters" type="Twig" />
       <mapping ext="liquid" type="Twig" />
     </extensionMap>
