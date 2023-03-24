@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="lazy-load-blur" type="AUTO_DETECTED" />
       <mapping ext="liqud" type="PLAIN_TEXT" />
       <mapping ext="svg  " type="PLAIN_TEXT" />
       <mapping pattern="works-with-sidebar-filters" type="Twig" />
