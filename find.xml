@@ -17,7 +17,7 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.scss</mask>
-    <mask>*.liquid</mask>
     <mask>*.js</mask>
+    <mask>*.liquid</mask>
   </component>
 </application>
