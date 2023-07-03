@@ -5,6 +5,7 @@
       <mapping pattern="lazy-load-blur" type="AUTO_DETECTED" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".editor.config" type="PLAIN_TEXT" />
       <mapping ext="liqud" type="PLAIN_TEXT" />
       <mapping ext="svg  " type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
