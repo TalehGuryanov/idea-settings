@@ -10,6 +10,7 @@
       <mapping ext="liqud" type="PLAIN_TEXT" />
       <mapping ext="svg  " type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
+      <mapping ext="compare_home_controls" type="Twig" />
       <removed_mapping pattern="works-with-sidebar-filters" approved="true" type="Twig" />
     </extensionMap>
   </component>
