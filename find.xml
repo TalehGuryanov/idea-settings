@@ -16,8 +16,8 @@
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
-    <mask>*.liquid</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.liquid</mask>
   </component>
 </application>
