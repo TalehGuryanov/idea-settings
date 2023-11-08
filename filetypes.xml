@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="products-cart-config" type="AUTO_DETECTED" />
       <mapping pattern="products-cart-config.liquid" type="AUTO_DETECTED" />
+      <mapping pattern="MainLayout.js" type="AUTO_DETECTED" />
       <mapping pattern="lazy-load-blur" type="AUTO_DETECTED" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
