@@ -12,10 +12,10 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="liqud" type="PLAIN_TEXT" />
       <mapping ext="svg  " type="PLAIN_TEXT" />
-      <mapping ext="liquid" type="Twig" />
       <removed_mapping ext="compare_home_controls" approved="true" type="Twig" />
       <removed_mapping ext="liquid" approved="true" type="Liquid Template" />
       <removed_mapping pattern="works-with-sidebar-filters" approved="true" type="Twig" />
+      <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
 </application>
